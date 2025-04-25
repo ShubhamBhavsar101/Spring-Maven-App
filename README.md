@@ -3,14 +3,14 @@
 
 ## 🛠️ Installation
 
-### Java
+#### Java
 ```bash
 sudo apt install openjdk-17-jdk
 ```
 
-### Maven - [Installing Maven](https://github.com/ShubhamBhavsar101/Installing-Maven)
+#### Maven - [Installing Maven](https://github.com/ShubhamBhavsar101/Installing-Maven)
 
-### IntelliJ IDEA Community
+#### IntelliJ IDEA Community
 ```bash
 sudo snap install intellij-idea-community --classic
 ```
